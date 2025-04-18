@@ -3,7 +3,7 @@
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ourcx" /> </div>
 
-<h3>小小自我介绍</h3>
+<h3 align="center">小小自我介绍</h3>
 <div align="center"> <img src="https://metrics.lecoq.io/ourcx?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 
@@ -11,3 +11,8 @@
 
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ourcx&theme=xcode" /> </div>
+
+
+<h5 align="center">
+  关于代码,学习盒练习,我并非是科班出身的,还在尝试着这条路子,希望可以做一点什么
+</h5>

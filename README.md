@@ -3,4 +3,11 @@
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ourcx" /> </div>
 
-![Metrics](https://metrics.lecoq.io/ourcx?template=classic&languages=1&stargazers=1&lines=1&activity=1&introduction=1&stock=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction=false&introduction.title=true&stock=false&stock.duration=1d&stock.interval=5m&config.timezone=Asia%2FShanghai)
+<h3>小小自我介绍</h3>
+<div align="center"> <img src="https://metrics.lecoq.io/ourcx?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourcx&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ourcx&theme=xcode" /> </div>

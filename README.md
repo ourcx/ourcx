@@ -13,6 +13,9 @@
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ourcx&theme=xcode" /> </div>
 
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ourcx&theme=xcode" /> </div>
+
+
 <h5 align="center">
   关于代码,学习和练习,我并非是科班出身的,还在尝试着这条路子,希望可以做一点什么
 </h5>

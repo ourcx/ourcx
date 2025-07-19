@@ -14,8 +14,6 @@ jobs:
           # 其他配置参数（见下文）
           user: YOUR_GITHUB_USERNAME  # 默认当前仓库所有者
           template: classic          # 模板风格（如 "classic", "terminal"）
-  
-  # 功能模块
           base: header, activity, community
           plugins: stars, followers, repositories
           stars_limit: 5            # 显示最多 5 个标星仓库

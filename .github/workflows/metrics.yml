@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 * * * *"  # 每小时自动运行一次
+  workflow_dispatch:     # 支持手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # 自动使用默认 token
+          # 其他配置参数（见下文）
+          user: YOUR_GITHUB_USERNAME  # 默认当前仓库所有者
+          template: classic          # 模板风格（如 "classic", "terminal"）
+  
+  # 功能模块
+          base: header, activity, community
+          plugins: stars, followers, repositories
+          stars_limit: 5            # 显示最多 5 个标星仓库
+          isocalendar: yes          # 贡献日历
+          languages: yes            # 编程语言统计

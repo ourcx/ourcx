@@ -7,7 +7,7 @@
 
 <h3 align=“center”>介绍</h3>
 
-
+![Metrics](https://github.com/ourcx/ourcx/blob/master/github-metrics.svg)
 
 
 

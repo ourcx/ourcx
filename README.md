@@ -7,7 +7,7 @@
 
 <h3 align=“center”>介绍</h3>
 
-![Metrics](https://github.com/ourcx/ourcx/blob/master/github-metrics.svg)
+同时也是一名业余无线电爱好者(ham)，我是BG7MCO，期待空中相见
 
 
 

@@ -20,19 +20,23 @@
 
 一名积极探索前端技术的开发者，同时也是一名业余无线电爱好者（**HAM**），我的呼号是 **BG7MCO**，期待在空中与你相遇！
 
-我并非科班出身，但对编程充满热情，喜欢前端
+我并非科班出身，但对前端充满热情
 
 ---
 
 ### 📊 GitHub 数据概览
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ourcx&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourcx&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ourcx&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourcx&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
 </div>
 
+---
+
+### 📈 每日贡献与活跃度
+
 <div align="center">
-  <img src="https://github-profile-summary-for-markdown.vercel.app/api/card?username=ourcx&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ourcx&theme=gotham&hide_border=true" />
 </div>
 
 ---
@@ -40,7 +44,7 @@
 ### 🔥 我的项目活动
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ourcx&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ourcx&theme=gotham&hide_border=true" />
 </div>
 
 ---

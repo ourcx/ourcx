@@ -1,25 +1,52 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=小海同学祝您今天愉快!73&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=你好,%20小海同学祝您今天愉快!;欢迎来到我的GitHub主页!&center=true&size=27"> </a> </h1>
 
-<span align="center" > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ourcx" /> </div>
+<div align="center">
+  <a href="https://visitor-badge.glitch.me/badge?page_id=ourcx">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ourcx" />
+  </a>
+</div>
 
-<h3 align="center">小小自我介绍</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</div>
 
-<h3 align=“center”>介绍</h3>
+---
 
-同时也是一名业余无线电爱好者(ham)，我是BG7MCO，期待空中相见
+### 👋 自我介绍
 
+你好，我是 **小海同学**。
 
+一名积极探索前端技术的开发者，同时也是一名业余无线电爱好者（**HAM**），我的呼号是 **BG7MCO**，期待在空中与你相遇！
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourcx&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+我并非科班出身，但对编程充满热情，喜欢前端
 
+---
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ourcx"></div>
+### 📊 GitHub 数据概览
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ourcx&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourcx&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=onedark" />
+</div>
 
-<div align="center"> <img src="https://s2.loli.net/2025/02/02/ELbK6urJqYvgBPj.jpg" /> </div>
+<div align="center">
+  <img src="https://github-profile-summary-for-markdown.vercel.app/api/card?username=ourcx&theme=github_dark" />
+</div>
 
+---
 
-<h5 align="center">
-  关于代码,学习和练习,我并非是科班出身的,还在尝试着这条路子,希望可以做一点什么，这个暑假，在帮忙写一个比赛的前后端和参加了犀牛鸟开源活动，去做一些事情
-</h5>
+### 🔥 我的项目活动
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ourcx&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+### ✨ 一些小彩蛋
+
+<div align="center">
+  <img src="https://s2.loli.net/2025/02/02/ELbK6urJqYvgBPj.jpg" width="400" />
+</div>

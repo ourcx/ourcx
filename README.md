@@ -1,19 +1,13 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=你好,%20小海同学祝您今天愉快!;欢迎来到我的GitHub主页!&center=true&size=27"> </a> </h1>
 
 <div align="center">
-  <a href="https://visitor-badge.glitch.me/badge?page_id=ourcx">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ourcx" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </div>
 
----
 
+---
 ### 👋 自我介绍
 
 你好，我是 **小海同学**。
@@ -33,20 +27,25 @@
 
 ---
 
-### 📈 每日贡献与活跃度
+### 📈 个人博客喵
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ourcx&theme=gotham&hide_border=true" />
+  // https://norubias.site/#/
 </div>
 
 ---
 
 ### 🔥 我的项目活动
 
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ourcx)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ourcx&theme=gotham&hide_border=true" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ourcx&theme=gotham&hide_border=true" />
+</div>
 ---
 
 ### ✨ 一些小彩蛋

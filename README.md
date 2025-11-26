@@ -22,7 +22,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ourcx&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=graywhite" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourcx&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
 </div>
 
 ---
